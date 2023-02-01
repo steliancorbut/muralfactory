@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://muralfactory.ro">
-    <img src="assets/img/navbar-logo.png" alt="Logo MURAL FACTORY">
+    <img src="assets/img/navbar-logo-mural-factory.png" alt="Logo MURAL FACTORY">
   </a>
 </p>
 
