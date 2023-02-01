@@ -9,7 +9,7 @@
 </p>
 
 ## Used at
--   [https://muralfactory.ro] (https://muralfactory.ro)
+-   [muralfactory.ro] (https://muralfactory.ro)
 
 ## Contributing
 
